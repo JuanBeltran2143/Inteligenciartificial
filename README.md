@@ -11,3 +11,4 @@ Este repositorio está destinado a la asignatura de **Inteligencia Artificial**.
 ## Entregables
 En cada branch o rama del repositorio se ecuentran los entregables efectivos por lo que se recomienda poder navegar en el presente repositorio para tener mas informacion de cada actividad. 
 * **Búsqueda y sistemas basados en reglas** Branch #2 llamada igual a la actividad a desarrollar
+        * [Ingresa aqui al branch](../../tree/busqueda-sistemas-reglas)
