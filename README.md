@@ -12,4 +12,4 @@ A continuación, adjunto el enlace a mi video de YouTube con la explicación com
 * `main.py`: Código fuente con las instrucciones del sistema inteligente.
 * `README.md`: Indicaciones y enlaces de acceso al contenido importante de la actividad.
 * `Actividad 2 - Búsqueda y sistemas basados en reglas`: Documento entregable de la actividad 
-[_Revisa el documento aqui_](Actividad 2 - Búsqueda y sistemas basados en reglas.pdf)
+[_Revisa el documento aqui_](./Actividad_2_Busqueda_y_sistemas_basados_en_reglas.pdf)
