@@ -10,4 +10,6 @@ A continuación, adjunto el enlace a mi video de YouTube con la explicación com
 
 ## Archivos del Entregable
 * `main.py`: Código fuente con las instrucciones del sistema inteligente.
-* `README.md`: Documentación y detalles del entregable.
+* `README.md`: Indicaciones y enlaces de acceso al contenido importante de la actividad.
+* `Actividad 2 - Búsqueda y sistemas basados en reglas`: Documento entregable de la actividad 
+[_Revisa el documento aqui_](Actividad 2 - Búsqueda y sistemas basados en reglas.pdf)
