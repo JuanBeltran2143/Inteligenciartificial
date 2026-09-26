@@ -7,3 +7,7 @@ Este repositorio está destinado a la asignatura de **Inteligencia Artificial**.
 * **Facultad:** Facultad de Ingeniería
 * **Programa:** Ingeniería de Software
 * **Fecha:** 25 de Septiembre de 2026
+
+## Entregables
+En cada branch o rama del repositorio se ecuentran los entregables efectivos por lo que se recomienda poder navegar en el presente repositorio para tener mas informacion de cada actividad. 
+* **Búsqueda y sistemas basados en reglas** Branch #2 llamada igual a la actividad a desarrollar
