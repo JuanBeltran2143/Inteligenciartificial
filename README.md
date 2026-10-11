@@ -15,4 +15,4 @@ A continuación, adjunto el enlace a mi video de YouTube con la explicación com
 * `Fuente de datos para métodos de aprendizaje supervisado`: Documento tecnico que describe la fuente de datos.
 * `Pruebas Realizadas al Componente Desarrollado`: Documentación tecnica de pruebas bajo el sistema.
 * `Actividad 3 - Métodos de aprendizaje supervisado`: Documento entregable de la actividad.
-[_Revisa el documento aqui_](./Actividad 3 - Métodos de aprendizaje supervisado.pdf)
+[_Revisa el documento aqui_](./Actividad_3_-_Métodos_de_aprendizaje_supervisado.pdf)
